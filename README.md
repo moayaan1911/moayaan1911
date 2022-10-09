@@ -1,7 +1,7 @@
 
 # Hello Everyone 👋 I am Mohammad Ayaan Siddiqui
-<img align="left" width="320" height="200" src="https://media.giphy.com/media/MagSgolK3ScWvtHAB4/giphy.gif">
-<img align="center" width="320" height="200" src="https://media.giphy.com/media/TJUMM58YCL6eyXVJf1/giphy.gif">  
+<img align="left" width="330" height="200" src="https://media.giphy.com/media/MagSgolK3ScWvtHAB4/giphy.gif">
+<img align="center" width="330" height="200" src="https://media.giphy.com/media/TJUMM58YCL6eyXVJf1/giphy.gif">  
 Hi! This is Mohammad Ayaan Siddiqui. I am a CERTIFIED ETHEREUM DEVELOPER and a FULL STACK WEB3 developer with hands-on experience of Solidity, React.js, React Native, Nextjs, Python,Hardhat and Javascript. I am a firm believer of decentralized technologies, largely ETHEREUM and cryptocurrencies in general. If you are interested in WEB3, React, Python or Javascript, do connect with me 🙌
 
 # Skills
