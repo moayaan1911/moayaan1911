@@ -58,15 +58,17 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
 
 ## What can I do?
 
- 1. I can create Front-End templates using **React.js**
- 2. I can create Full Stack applications using **MERN stack**.
- 3. I can create Cross Platform **Mobile Applications using React Native**.
- 4. I can create **Smart Contracts using Solidity**.
- 5. I can create dApps or WEB3 apps using **Solidity and Hardhat**.
- 6. I can **teach you** or someone you know **how to code**.
- 7. I can guide you how to **invest in cryptocurrencies**.
- 8. I can tell you about **DeFi investments** tricks to make money as a cryptocurrency investor.
- 9. I can advice you on your **future career option**(TECH).
+ 1. Create Front-End templates using **React.js**
+ 2. Create Back-End services using **Node.js/Express.js**
+ 3. Create Full Stack websites using **MERN stack**.
+ 4. Develop **Mobile Applications** using **React Native**.
+ 5. Code **Smart Contracts using Solidity**.
+ 6. Create dApps or WEB3 apps using **Solidity and Hardhat**.
+ 7. **Teach you** or someone you know **how to code**.
+ 8. Guide you how to **invest in cryptocurrencies**.
+ 9. **Career Counselling** (TECH)
+ 10. Help you with your **college projects**.
+ 11. Advice you in your own **WEB3 venture or project**. 
 
 ## THANK YOU
 If you are reading this, I want to thank you from the bottom of my heart for being so supportive. I want to bring a change in the world by contributing to the WEB3 revolution, which I believe is the largest **DIGITAL REVOLUTION** as people are shifting from a **centralized corporate web** to a **decentralized permissionless web.** 
