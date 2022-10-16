@@ -17,6 +17,9 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
 ## Socials
 <p align="center">
   <br>
+    <a href="https://linktr.ee/ayaaneth">
+    <code><img height="50" width="80" src="https://cdn.dribbble.com/userupload/3007782/file/original-8f257cba713a7493c7fb30c5cbcb9e45.png?compress=1&resize=400x300&vertical=top"></code>
+  </a>
   <a href="mailto:ayaangames@gmail.com" target="_blank">
     <code><img height="46" width="52" src="https://img.icons8.com/3d-fluency/100/000000/gmail.png"></code>
   </a>
