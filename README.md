@@ -11,8 +11,13 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
 
 
 ## Github Stats
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moayaan1911&theme=dark&hide_border=true"/>
+</p>
 
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=moayaan1911&theme=dark&show_icons=true)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=moayaan1911&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/moayaan1911)
+<br>
+
 
 ## Socials
 <p align="center">
