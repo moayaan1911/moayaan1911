@@ -7,7 +7,7 @@
 Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and a **FULL STACK WEB3 developer** with hands-on experience of Solidity, React.js, React Native, Nextjs, Python,Hardhat and Javascript. I am a firm believer of decentralized technologies, largely ETHEREUM and cryptocurrencies in general. If you are interested in WEB3, React, Python or Javascript, do connect with me 🙌
 
 # Skills
-![EthereumSkill](https://img.icons8.com/color/100/000000/ethereum.png) ![Solidity](https://img.icons8.com/ios-filled/100/000000/solidity.png) ![react](https://img.icons8.com/office/100/000000/react.png) ![next](https://img.icons8.com/color/100/000000/nextjs.png) ![javascript](https://img.icons8.com/color/100/000000/javascript--v1.png) ![python](https://img.icons8.com/color/100/000000/python--v1.png) ![tailwind](https://img.icons8.com/fluency/100/000000/tailwind_css.png) ![Android](https://img.icons8.com/plasticine/100/000000/android-os.png) 
+![EthereumSkill](https://img.icons8.com/color/100/000000/ethereum.png) ![Solidity](https://img.icons8.com/ios-filled/100/000000/solidity.png) ![react](https://img.icons8.com/office/100/000000/react.png) ![next](https://img.icons8.com/color/100/000000/nextjs.png) ![javascript](https://img.icons8.com/color/100/000000/javascript--v1.png) ![python](https://img.icons8.com/color/100/000000/python--v1.png) ![tailwind](https://img.icons8.com/fluency/100/000000/tailwind_css.png) ![Hardhat](https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png) 
 
 
 ## Github Stats
