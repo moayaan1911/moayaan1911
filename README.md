@@ -37,7 +37,7 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
   <a href="https://dev.to/ayaaneth" target="_blank">
     <code><img height="50" width="50" src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg"></code>
   </a>
-  <a href="https://www.instagram.com/moayaan_1911" target="_blank">
+  <a href="https://www.instagram.com/moayaan.eth" target="_blank">
     <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
   </a>
     <a href="https://wa.me/7388290798?text=Hello%20Ayaan%2C%20I%20wanted%20to%20contact%20you%20regarding%20some%20work%2C%20please%20reply%20when%20you%20are%20free" target="_blank">
