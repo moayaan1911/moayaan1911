@@ -62,21 +62,22 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
         <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-55dbea47-ef9f-47d8-b134-e68174a6057c.pdf">
     <code>Full stack Web Development</code>
   </a>
+   <a href="https://dapp-world.com/certificate-verification/build-your-blockchain-using-polygon-edge-IUbs/6714">
+    <code>Polygon Edge</code>
+  </a>
 </p>
 
 ## What can I do?
 
  1. Create Front-End templates using **React.js**
- 2. Create Back-End services using **Node.js/Express.js**
- 3. Create Full Stack websites using **MERN stack**.
- 4. Develop **Mobile Applications** using **React Native**.
- 5. Code **Smart Contracts using Solidity**.
- 6. Create dApps or WEB3 apps using **Solidity and Hardhat**.
- 7. **Teach you** or someone you know **how to code**.
- 8. Guide you how to **invest in cryptocurrencies**.
- 9. **Career Counselling** (TECH)
- 10. Help you with your **college projects**.
- 11. Advice you in your own **WEB3 venture or project**. 
+ 2. Develop **Mobile Applications** using **React Native**.
+ 3. Code **Smart Contracts using Solidity**.
+ 4. Create dApps or WEB3 apps using **Solidity and Hardhat**.
+ 5. **Teach you** or someone you know **how to code**.
+ 6. Guide you how to **invest in cryptocurrencies**.
+ 7. **Career Counselling** (TECH)
+ 8. Help you with your **college projects**.
+ 9. Advice you in your own **WEB3 venture or project**. 
 
 ## THANK YOU
 If you are reading this, I want to thank you from the bottom of my heart for being so supportive. I want to bring a change in the world by contributing to the WEB3 revolution, which I believe is the largest **DIGITAL REVOLUTION** as people are shifting from a **centralized corporate web** to a **decentralized permissionless web.** 
