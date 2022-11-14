@@ -14,7 +14,7 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moayaan1911&theme=dark&hide_border=false"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=moayaan1911&theme=dark&show_icons=true"/>
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moayaan1911&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moayaan1911&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
 <br>
