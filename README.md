@@ -1,5 +1,5 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/moayaan1911?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;WEB3+Developer;Crypto+Investor;Ethereum+Maximalist;DeFi+Believer;Smart+Contract+Engineer;Technical+Content+Writer;&font=sans-serif&center=true&size=12">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+WEB3+Developer;Crypto+Investor;Ethereum+Maximalist;DeFi+Believer;Smart+Contract+Engineer;Technical+Content+Writer;&font=sans-serif&center=true&size=12">
 # Hello Everyone 👋 I am Mohammad Ayaan Siddiqui
 <img align="left" width="400" height="200" src="https://media.giphy.com/media/MagSgolK3ScWvtHAB4/giphy.gif">
 <img align="center" width="390" height="200" src="https://media.giphy.com/media/TJUMM58YCL6eyXVJf1/giphy.gif">  
