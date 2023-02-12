@@ -81,6 +81,5 @@ Hi! This is Mohammad Ayaan Siddiqui. I am a **CERTIFIED ETHEREUM DEVELOPER** and
 
 ## THANK YOU
 If you are reading this, I want to thank you from the bottom of my heart for being so supportive. I want to bring a change in the world by contributing to the WEB3 revolution, which I believe is the largest **DIGITAL REVOLUTION** as people are shifting from a **centralized corporate web** to a **decentralized permissionless web.** 
-My MOTTO:- **Keep Building, Keep Printing** 
 
 ![ethereum](https://img.icons8.com/color/25/000000/ethereum.png)**The Value of Decentralization goes beyond money:- Vitalik Buterin**![ethereum](https://img.icons8.com/color/25/000000/ethereum.png)
