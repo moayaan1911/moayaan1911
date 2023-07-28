@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/moayaan1911?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/moayaan1911?style=social"> &nbsp;&nbsp;
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+WEB3+Developer;Crypto+Investor;Ethereum+Maximalist;DeFi+Believer;Smart+Contract+Engineer;Technical+Content+Writer;&font=sans-serif&center=true&size=12">
 # Hello Everyone 👋 I am Mohammad Ayaan Siddiqui
-<img align="left" width="400" height="200" src="https://media.giphy.com/media/MagSgolK3ScWvtHAB4/giphy.gif">
+<img align="left" width="390" height="200" src="https://media.tenor.com/TCKfBcXic2oAAAAS/ethereum-eth.gif">
 <img align="center" width="390" height="200" src="https://media.giphy.com/media/TJUMM58YCL6eyXVJf1/giphy.gif">  
 <br/>
 
@@ -95,6 +95,9 @@ Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **techni
  9. Advice you in your own **WEB3 venture or project**. 
 
 ## THANK YOU
+<img align="center" width="390" height="200" src="https://media.tenor.com/qBmv1hJMJb0AAAAC/bitcoin-ethereum.gif">  
+<br/>
+
 If you are reading this, I want to thank you from the bottom of my heart for being so supportive. I want to bring a change in the world by contributing to the WEB3 revolution, which I believe is the largest **DIGITAL REVOLUTION** as people are shifting from a **centralized corporate web** to a **decentralized permissionless web.** 
 
 ![ethereum](https://img.icons8.com/color/25/000000/ethereum.png)**The Value of Decentralization goes beyond money:- Vitalik Buterin**![ethereum](https://img.icons8.com/color/25/000000/ethereum.png)
