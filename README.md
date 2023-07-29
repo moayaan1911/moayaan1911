@@ -76,7 +76,7 @@ Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **techni
     <a href="https://bmc.link/moayaan.eth">
     <code><img height="100" width="200" src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png"></code>
   </a>
-    <a href="coindrop.to/ayaaneth">
+    <a href="https://coindrop.to/ayaaneth">
     <code><img height="100" width="200" src="https://coindrop.to/OpenGraphLogoWithTagline.png"></code>
   </a>
 </p>
