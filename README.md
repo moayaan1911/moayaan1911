@@ -30,9 +30,7 @@ Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **techni
   <a href="mailto:ayaangames@gmail.com" target="_blank">
     <code><img height="46" width="52" src="https://img.icons8.com/3d-fluency/100/000000/gmail.png"></code>
   </a>
-  <a href="https://twitter.com/usdisshitcoin" target="_blank">
-    <code><img height="50" width="50" src="https://img.icons8.com/3d-fluency/100/000000/twitter-circled.png"></code>
-  </a>
+
   <a href="https://www.linkedin.com/in/ayaaneth/" target="_blank">
     <code><img height="50" width="50" src="https://img.icons8.com/3d-fluency/100/000000/linkedin.png"></code>
   </a>
@@ -41,9 +39,6 @@ Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **techni
   </a>
   <a href="https://www.instagram.com/moayaan.eth" target="_blank">
     <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
-  </a>
-    <a href="https://wa.me/7388290798?text=Hello%20Ayaan%2C%20I%20wanted%20to%20contact%20you%20regarding%20some%20work%2C%20please%20reply%20when%20you%20are%20free" target="_blank">
-    <code><img height="50" width="50" src="https://img.icons8.com/3d-fluency/100/000000/whatsapp.png"></code>
   </a>
       <a href="https://t.me/usdisshitcoin">
     <code><img height="50" width="50" src="https://img.icons8.com/3d-fluency/100/000000/telegram.png"></code>
