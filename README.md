@@ -5,7 +5,7 @@
 <img align="center" width="390" height="200" src="https://media.giphy.com/media/TJUMM58YCL6eyXVJf1/giphy.gif">  
 <br/>
 
-Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **technical co-founder** at DFRAME. With a strong passion for Web3, my skills span across web3 development, front-end development, backend development, smart contract development, content writing, and more. I also have a growing interest in project management and machine learning, constantly expanding my knowledge in these areas. As a technical co-founder, I bring valuable leadership and expertise to drive successful project outcomes. Let's collaborate and drive innovation in the world of Web3 together!
+Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **FREELANCER**. With a strong passion for Web3, my skills span across web3 development, front-end development, backend development, smart contract development, content writing, and more. I also have a growing interest in project management and machine learning, constantly expanding my knowledge in these areas. As a Full Stack Blockchain Developer, I bring valuable leadership and expertise to drive successful project outcomes. Let's collaborate and drive innovation in the world of Web3 together!
 
 
 
