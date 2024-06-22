@@ -66,7 +66,7 @@ Hey there! I'm Mohammad Ayaan Siddiqui, a **decentralization maxi** and **FREELA
 <p align="center">
   <br>
     <a href="https://bmc.link/moayaan.eth">
-    <code><img height="100" width="200" src="[https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png](https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg)"></code>
+    <code><img height="100" width="200" src="https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg"></code>
   </a>
     <a href="https://coindrop.to/ayaaneth">
     <code><img height="100" width="200" src="https://coindrop.to/OpenGraphLogoWithTagline.png"></code>
